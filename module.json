@@ -1,0 +1,43 @@
+{
+   "id":"det-krypande-morkret",
+   "title":"Det krypande mörkret",
+   "description":"Äventyrsmodul - Endast för personligt bruk",
+   "url":"https://github.com/Rangertheman/det-krypande-morkret",
+   "manifest":"https://raw.githubusercontent.com/Rangertheman/det-krypande-morkret/master/module.json",
+   "download":"https://github.com/Rangertheman/det-krypande-morkret/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.2"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Det krypande mörkret",
+         "name":"det-krypande-morkret",
+         "path":"./packs/det-krypande-morkret.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/det-krypande-morkret/img/Cover_image.jpg"
+      }
+   ]
+}
