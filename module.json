@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.4",
+   "version":"0.0.5",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -37,7 +37,7 @@
          "path":"./packs/det-krypande-morkret.db",
          "type":"Adventure",
          "system":"dragonbane",
-         "banner":"./modules/det-krypande-morkret/img/Cover_image.jpg"
+         "banner":"./modules/det-krypande-morkret/img/Alt_Cover_image.jpg"
       }
    ]
 }
