@@ -1,15 +1,15 @@
-2024/11/03-20:26:51.926 2afc Recovering log #91
-2024/11/03-20:26:51.933 2afc Delete type=0 #91
-2024/11/03-20:26:51.933 2afc Delete type=3 #89
-2024/11/03-20:56:53.246 1664 Level-0 table #96: started
-2024/11/03-20:56:53.276 1664 Level-0 table #96: 208317 bytes OK
-2024/11/03-20:56:53.278 1664 Delete type=0 #94
-2024/11/03-20:56:53.283 1664 Manual compaction at level-0 from '!adventures!CtF7w2haq95ukLsK' @ 72057594037927935 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at (end)
-2024/11/03-20:56:53.283 1664 Manual compaction at level-1 from '!adventures!CtF7w2haq95ukLsK' @ 72057594037927935 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at '!adventures!CtF7w2haq95ukLsK' @ 14 : 1
-2024/11/03-20:56:53.283 1664 Compacting 1@1 + 1@2 files
-2024/11/03-20:56:53.309 1664 Generated table #97@1: 1 keys, 208317 bytes
-2024/11/03-20:56:53.309 1664 Compacted 1@1 + 1@2 files => 208317 bytes
-2024/11/03-20:56:53.311 1664 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/11/03-20:56:53.311 1664 Delete type=2 #84
-2024/11/03-20:56:53.311 1664 Delete type=2 #96
-2024/11/03-20:56:53.317 1664 Manual compaction at level-1 from '!adventures!CtF7w2haq95ukLsK' @ 14 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at (end)
+2024/12/29-14:57:33.511 5038 Recovering log #192
+2024/12/29-14:57:33.521 5038 Delete type=0 #192
+2024/12/29-14:57:33.521 5038 Delete type=3 #190
+2024/12/29-15:28:04.519 79cc Level-0 table #197: started
+2024/12/29-15:28:04.572 79cc Level-0 table #197: 415841 bytes OK
+2024/12/29-15:28:04.574 79cc Delete type=0 #195
+2024/12/29-15:28:04.574 79cc Manual compaction at level-0 from '!adventures!CtF7w2haq95ukLsK' @ 72057594037927935 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at (end)
+2024/12/29-15:28:04.574 79cc Manual compaction at level-1 from '!adventures!CtF7w2haq95ukLsK' @ 72057594037927935 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at '!adventures!CtF7w2haq95ukLsK' @ 15 : 1
+2024/12/29-15:28:04.574 79cc Compacting 1@1 + 1@2 files
+2024/12/29-15:28:04.602 79cc Generated table #198@1: 1 keys, 207964 bytes
+2024/12/29-15:28:04.602 79cc Compacted 1@1 + 1@2 files => 207964 bytes
+2024/12/29-15:28:04.604 79cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/29-15:28:04.604 79cc Delete type=2 #97
+2024/12/29-15:28:04.605 79cc Delete type=2 #197
+2024/12/29-15:28:04.668 79cc Manual compaction at level-1 from '!adventures!CtF7w2haq95ukLsK' @ 15 : 1 .. '!adventures!CtF7w2haq95ukLsK' @ 0 : 0; will stop at (end)
